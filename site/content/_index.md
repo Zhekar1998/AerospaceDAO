@@ -3,33 +3,39 @@ title: AEROSPACE DAO
 subtitle: Create new world together
 image: img/1.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: OUR MISION
+  text: >-
+    - Support youth aerospace science in Ukraine and world
+
+    - Create research air fleet with different types of aircrafts for flying tests of new innovation systems
+
+    - Support of ultra-lite and small aviation
+
+    - Test launches of aircrafts and space rockets and avionics
+
+    - ReCreating of youth glider schools and other aerospace afterschool activities
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: HOW WE CAN DO THIS
+  text: We create new possibilities for youth to create new era
+    airplanes,  rockets, avionics and payloads using new innovative DAO
+    technologies provided by NEAR ecosystem
 products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - text: "Flying test support: at this time we have search possibilities to earn
+      some UAV from 1kg class to big 5.5 ton UAV with turbofan engine end we
+      will be use this aircrafts for test innovative control systems and
+      payloads"
+    image: img/images.jpeg
+  - text: "Grants: we would like to support schoolchildren, students and young
+      scientists to create innovations in aerospace using small grants for
+      buying materials and doing test launches"
+    image: img/как-получить-грант.png
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: CORE TEAM
+  text: >-
+    Lukatskyi Yevhenii aka zhekar1998.near CEO, Head of blockchain department,
+    flying test department  
+
+    Melnik Yurii Science adviser, Mentor, Head of science department
+
+    Ostapenko Kostyantyn  Management and pr department? Communications
 ---
