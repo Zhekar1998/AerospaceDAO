@@ -6,14 +6,15 @@
     <div class="flex-ns mhn2-ns mb3">
       {{ range .products }}
       <div class="ph2-ns w-50-ns">
-        <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px">
+        <img src="{{.image}}" alt="" class="center db mb3" style="width: 320px; height: 240px">
+        <h3 class="tc b lh-title mb2">{{.name}}</h3>
         <p>{{.text}}</p>
       </div>
       {{ end }}
     </div>
 
     <div class="tc">
-      <a href="/products" class="btn raise">See all products</a>
+      <a href="/products" class="btn raise">See all possibilities</a>
     </div>
   </div>
 </div>

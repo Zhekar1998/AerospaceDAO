@@ -16,14 +16,16 @@ intro:
    airplanes,  rockets, avionics and payloads using new innovative DAO
    technologies provided by NEAR ecosystem
 products:
-   - text: "Flying test support: at this time we have search possibilities to earn
-       some UAV from 1kg class to big 5.5 ton UAV with turbofan engine end we
-       will be use this aircrafts for test innovative control systems and
-       payloads"
+   - name: "Flying test support"
+     text: "We have search possibilities to earn
+     some UAV from 1kg class to big 5.5 ton UAV with turbofan engine end we
+     will be use this aircrafts for test innovative control systems and
+     payloads"
      image: img/images.jpeg
-   - text: "Grants: we would like to support schoolchildren, students and young
-       scientists to create innovations in aerospace using small grants for
-       buying materials and doing test launches"
+   - name: "Grants"
+     text: "We would like to support schoolchildren, students and young
+     scientists to create innovations in aerospace using small grants for
+     buying materials and doing test launches"
      image: img/как-получить-грант.png
 values:
   heading: CORE TEAM
