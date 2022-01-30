@@ -12,6 +12,10 @@
   color: var(--white);
 }
 
+.blue {
+  color: darkblue;
+}
+
 .off-white {
   color: var(--off-white);
 }
